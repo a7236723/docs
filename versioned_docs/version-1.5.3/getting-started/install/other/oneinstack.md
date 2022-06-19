@@ -52,7 +52,10 @@ cd oneinstack
 ```bash
 sh vhost.sh
 ```
-
+如果是ubuntu，使用命令：
+```bash
+./vhost.sh
+```
 2. 按照提示选择或输入相关信息
 
 ```bash
